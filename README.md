@@ -6,19 +6,17 @@ Explicação: O Selection Sort é um algoritmo de ordenação que funciona da se
 
 Vantagens: 
            
-           
            1. Esse método é fácil de entender.
            2. Facilidade de implementar e até em outras linguagens.
            3. Ele é um algoritimo "in-place",ou seja, não requer memória adicional.
            4. É relativamente rápido para conjuntos pequenos de dados.
 
-
 Desvantagens: 
+           
            1. Esse método com lista grandes acaba tendo um desempenho ruim.
            2. Acaba fazendo o mesmo número de comparações sempre, mesmo com a ordenação no final.
            3. ELe é lento.
            4. Acaba não sendo muito estável se houver números iguais, mudando a ordem relativa deles.
-
 
 # 2. Bubble Sort
 Explicação: O Bubble Sort é um algoritmo de ordenação que funciona comparando pares de elementos vizinhos em uma lista e trocando-os de lugar se estiverem na ordem errada.
