@@ -2,6 +2,8 @@
 
 # 1. Selection Sort
 Explicação: O Selection Sort é um algoritmo de ordenação que funciona da seguinte maneira: ele percorre toda a lista à procura do menor valor. Quando encontra esse menor valor, ele o troca de lugar com o primeiro elemento da lista. Com isso, garante que o primeiro elemento esteja no lugar correto.
+
+
 Vantagens: 
            1. Esse método é fácil de entender.
            2. Facilidade de implementar e até em outras linguagens.
