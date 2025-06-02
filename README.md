@@ -5,6 +5,8 @@ Explicação: O Selection Sort é um algoritmo de ordenação que funciona da se
 
 
 Vantagens: 
+           
+           
            1. Esse método é fácil de entender.
            2. Facilidade de implementar e até em outras linguagens.
            3. Ele é um algoritimo "in-place",ou seja, não requer memória adicional.
