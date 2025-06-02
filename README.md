@@ -23,17 +23,17 @@ Explicação: O Bubble Sort é um algoritmo de ordenação que funciona comparan
 
 
 Vantagens:
+
            1. Ele é ótimo para quem está aprendendo lógica de programação e algoritomos.
            2. Usa poucas linhas de codigo com uma lógica direta de dois for e uma comparação.
            3. Funciona muito bem em lista pequenas entre 3 a 10 elementos.
            4. Funcina bem e não da problemas e pode ser otimizado caso a lista já estiver ordenada.
 
-
 Desvantagens: 
+
            1. Muito lendo com listas grandes. 
            2. Ele acaba comparando elementos muitas vezes, comparando com o Selection Sort ele faz muitas mais trocas, e isso pode ser prejudicial se o custo da troca for muito alto.
            3. E em situações reais como programas, sistemas e banco de dados não é uma boa opção, outros algoritimos acabando sendo opções melhores.
-
 
 # 3. Insertion Sort
 Explicação: O Insertion Sort é um algoritmo de ordenação que funciona de forma parecida com o modo como você organizaria cartas na mão. Ele constrói a lista ordenada aos poucos, pegando um elemento por vez e inserindo-o na posição correta dentro da parte que já está ordenada.
