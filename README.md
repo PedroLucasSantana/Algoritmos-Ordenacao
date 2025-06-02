@@ -1,1 +1,3 @@
-# Algoritmos-Ordenacao.
+# Algoritmos-Ordenacao
+
+# 1. Selection Sort
